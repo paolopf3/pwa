@@ -1,0 +1,13 @@
+{
+    "short_name": "ANG_APP",
+    "name": "AngularPWA",
+    "icons":[{
+        "src": "/assets/icon.png", "sizes": "144x144"
+    }],
+    "start_url": "/index.html",
+    "scope": "/",
+    "theme-color": "#f48c5b",
+    "background-color": "#ffffff",
+    "display": "standalone",
+    "orientation": "portrait"
+}
